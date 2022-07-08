@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/education_site_frontend/static/css/main.c576c56c.css",
+    "main.js": "/education_site_frontend/static/js/main.ccb401ce.js",
+    "static/js/787.b971b75c.chunk.js": "/education_site_frontend/static/js/787.b971b75c.chunk.js",
+    "static/media/coach1.png": "/education_site_frontend/static/media/coach1.184c78f3af1b82017ed4.png",
+    "static/media/art.jpg": "/education_site_frontend/static/media/art.834acd4485aec5285684.jpg",
+    "static/media/bg.jpg": "/education_site_frontend/static/media/bg.987b67511c3aaad02434.jpg",
+    "static/media/graphic_design.jpg": "/education_site_frontend/static/media/graphic_design.ab6e05ab3b4c582d9811.jpg",
+    "static/media/digital_marketing.jpg": "/education_site_frontend/static/media/digital_marketing.faeddf5dc3b8cfc3cdf3.jpg",
+    "static/media/coach3.jpeg": "/education_site_frontend/static/media/coach3.fd51936c577bea50eaff.jpeg",
+    "static/media/stock_market.jpg": "/education_site_frontend/static/media/stock_market.da3dfac15eaad66319f1.jpg",
+    "static/media/coach2.jpeg": "/education_site_frontend/static/media/coach2.48286a6bc32e80576c33.jpeg",
+    "static/media/blockchain.jpg": "/education_site_frontend/static/media/blockchain.2759c3b30eb4344bf233.jpg",
+    "static/media/programming.jpg": "/education_site_frontend/static/media/programming.6e656152fa9eff486431.jpg",
+    "index.html": "/education_site_frontend/index.html",
+    "main.c576c56c.css.map": "/education_site_frontend/static/css/main.c576c56c.css.map",
+    "main.ccb401ce.js.map": "/education_site_frontend/static/js/main.ccb401ce.js.map",
+    "787.b971b75c.chunk.js.map": "/education_site_frontend/static/js/787.b971b75c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c576c56c.css",
+    "static/js/main.ccb401ce.js"
+  ]
+}
