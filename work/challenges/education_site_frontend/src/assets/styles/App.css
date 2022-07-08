@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.App {
+    background-color: #3333;
+    text-align: center;
+}
+
+.courses_section {
+    display: grid;
+    padding: 1rem 6rem;
+    place-items: center;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 4rem;
+}
+
+.courses-heading1 {
+    text-align: center;
+    padding: 1rem;
+    margin-top: 1rem;
+}
+
+.courses-heading2 {
+    text-align: center;
+    padding: 1rem;
+
+}
+
+.teacher-section {
+    display: flex;
+}
+
+@media only screen and (max-width:890px) {
+    .courses_section {
+        padding: 2rem;
+        grid-template-columns: 1fr;
+        grid-gap: 0;
+    }
+
+    .teacher-section {
+        flex-direction: column;
+    }
+}
